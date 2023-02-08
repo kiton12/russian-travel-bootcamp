@@ -1,0 +1,17 @@
+.cover {
+    background-image: url(../../sprint-3-images/cover-trains.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 92px 48px;
+
+}
+
+
+
+@media screen and (max-width: 1279px) {
+    .cover {    
+        margin: 92px 0;
+
+    }
+    
+}
