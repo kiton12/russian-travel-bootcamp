@@ -6,6 +6,10 @@
     padding-bottom: 26px;
 }
 
+.place__paragraph:last-child {
+    padding-bottom: 0;
+}
+
 
 
 @media screen and (max-width: 1023px) {
