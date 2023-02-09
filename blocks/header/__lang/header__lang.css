@@ -1,4 +1,4 @@
-.header__lang-link {
+.header__lang {
     text-decoration: none;
     font-size: 24px;
     line-height: 28px;
@@ -8,16 +8,16 @@
     margin: 18px 18px 6px 0;
 }
 
-.header__lang-link:last-child {
+.header__lang:last-child {
     margin-right: 0;
 }
 
-.header__lang-link:hover {
+.header__lang:hover {
     opacity: 80%;
   }
 
 @media screen and (max-width: 768px) {
-    .header__lang-link {
+    .header__lang {
         font-size: 18px;
         line-height: 20px;
     }
