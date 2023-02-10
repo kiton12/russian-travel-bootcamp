@@ -4,6 +4,10 @@
     line-height: 22px;
 }
 
+.place__link:hover {
+    opacity: 0.8;
+}
+
 @media screen and (max-width: 767px) {
     .place__link {
         padding: 0 16px;
