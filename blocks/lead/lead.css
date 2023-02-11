@@ -3,14 +3,13 @@
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
-    width: calc(100% - 148px * 2);
+    max-width: 984px;
     margin: 0;
     padding: 56px 148px 0;
 }
 
 @media screen and (max-width: 1279px) {
     .lead {
-        width: calc(100% - 48px * 2);
         padding: 48px auto 0;
     }
     
@@ -27,4 +26,4 @@
     .lead {
         max-width: 928px;
     }
-}
+}   
