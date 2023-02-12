@@ -22,6 +22,8 @@ Russian Travel - проект студента "Яндекс Практикум"
 
 
 ## Ссылка на проект
+https://kiton12.github.io/russian-travel-bootcamp/index.html 
+
 https://github.com/kiton12/russian-travel-bootcamp.git
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
