@@ -6,6 +6,15 @@
     max-width: 1184px;
 }
 
+@media screen and (max-width: 1024px) {
+    .cover {
+        margin: 92px 0;
+        max-height: 640px;
+
+    }
+    
+}
+
 @media screen and (max-width: 1023px) {
     .cover {
         margin-top: 67px;
